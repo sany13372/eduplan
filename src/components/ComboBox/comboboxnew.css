@@ -1,0 +1,9 @@
+.combobox-new>div:first-child{
+    width:100%;
+}
+
+.combobox-new button{
+    border-radius: 6px;
+    flex:1 1 auto;
+    justify-content: space-between;
+}

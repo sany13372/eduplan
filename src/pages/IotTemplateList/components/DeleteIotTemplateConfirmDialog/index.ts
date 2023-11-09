@@ -1,0 +1,1 @@
+export { DeleteIotTemplateConfirmDialog } from './DeleteIotTemplateConfirmDialog';

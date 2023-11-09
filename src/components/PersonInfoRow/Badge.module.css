@@ -1,0 +1,6 @@
+.badge{
+    @apply w-max max-w-full truncate;
+}
+.badge>svg{
+    @apply text-primary-400;
+}

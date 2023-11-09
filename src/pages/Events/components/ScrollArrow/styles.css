@@ -1,0 +1,9 @@
+.test{
+    @apply bottom-2.5;
+    transition:bottom 0.3s linear;
+}
+
+.test.large{
+    @apply bottom-7;
+
+}

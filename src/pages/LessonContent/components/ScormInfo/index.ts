@@ -1,0 +1,1 @@
+export { ScormInfo } from './ScormInfo';

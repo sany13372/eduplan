@@ -1,0 +1,1 @@
+export { TeacherInfoCard } from './TeacherInfoCard';

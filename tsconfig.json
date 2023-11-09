@@ -1,0 +1,9 @@
+{
+  "extends": "@baldrick/ts-config/dist/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "dist",
+  },
+  "include": ["src", "__tests__","types"],
+  "exclude": ["node_modules", "dist"]
+}

@@ -1,0 +1,6 @@
+export enum EventAnswer {
+  SUCCESS,
+  EMPTY_PARTICIPANTS,
+  EMPTY_EVENTS,
+  INCORRECT_FILTERING,
+}

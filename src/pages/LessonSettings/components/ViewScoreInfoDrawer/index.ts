@@ -1,0 +1,1 @@
+export { ViewScoreInfoDrawer } from './ViewScoreInfoDrawer';

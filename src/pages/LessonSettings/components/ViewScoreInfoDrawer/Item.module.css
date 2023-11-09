@@ -1,0 +1,6 @@
+.item {
+    @apply first:rounded-l-md last:rounded-r-md;
+    @apply border border-base-300 border-r-0 min-w-[120px];
+    @apply last:border-r;
+}
+

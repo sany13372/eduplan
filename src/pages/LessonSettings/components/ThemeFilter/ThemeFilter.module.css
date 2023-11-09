@@ -1,0 +1,10 @@
+.filterContainer{
+    @apply w-full max-w-[480px]
+}
+.filterContainer>div:first-child{
+    width:100%;
+}
+
+.filterContainer>div:first-child button{
+    @apply bg-white;
+}

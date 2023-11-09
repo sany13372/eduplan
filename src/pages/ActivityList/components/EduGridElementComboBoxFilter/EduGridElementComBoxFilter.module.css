@@ -1,0 +1,7 @@
+.comboboxFilter>div:first-child button{
+    @apply  bg-white;
+}
+
+.comboboxFilter>div:first-child{
+    @apply  w-full;
+}

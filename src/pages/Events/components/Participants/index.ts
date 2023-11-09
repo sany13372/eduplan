@@ -1,0 +1,1 @@
+export { EventParicipantsForm } from './EventParicipantsForm';

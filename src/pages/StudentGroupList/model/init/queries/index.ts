@@ -1,0 +1,13 @@
+export * from './getGroupsInfoQuery';
+export * from './updateGroupMutation';
+export * from './deleteStudentMutation';
+export * from './deleteGroupMutation';
+export * from './createGroupMutation';
+export * from './getCreateGroupInitialDataQuery';
+export * from './getUpdateGroupInitialDataQuery';
+export * from './getEduGroupTypesQuery';
+export * from './getEduGroupListQuery';
+export * from './excludeStudentFromGroupQuery';
+export * from './getStudentsWithoutGroupQuery';
+export * from './addStudentsToGroupQuery';
+export { getStudentsInfoNewQuery } from './getStudentsInfoNewQuery';

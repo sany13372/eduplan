@@ -1,0 +1,28 @@
+.infoPanel{
+    @apply  grid lg:grid-cols-10 gap-2 grid-cols-2 grow;
+}
+
+.infoPanelAdmins{
+    @apply col-span-4 lg:col-span-10;
+}
+
+
+.infoPanelLink{
+    @apply col-span-2 lg:col-span-5;
+}
+
+.infoPanelSubInfo{
+    @apply col-span-2 md:col-span-1 lg:col-span-2;
+}
+
+.infoPanelDesc{
+    @apply col-span-full;
+}
+
+.infoPanelLogoWrapper{
+@apply  w-full col-span-2  row-span-2 hidden lg:block pl-4
+}
+
+.infoPanelLogo{
+    @apply w-[180px] h-[180px]  grow-0	 shrink-0 rounded-md ;
+}

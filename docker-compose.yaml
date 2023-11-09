@@ -1,0 +1,10 @@
+version: '3.9'
+
+services:
+  eduplans:
+    image: eduplans
+    build:
+      context: .
+      dockerfile: frontend.Dockerfile
+    ports:
+      - '3601:80'

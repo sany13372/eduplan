@@ -1,0 +1,13 @@
+.card {
+    @apply p-4 flex flex-col gap-[14px];
+    @apply first:rounded-t-md last:rounded-b-md;
+    @apply border border-base-300 hover:border-black border-b-0;
+}
+
+.card{
+    @apply last:border-b;
+}
+
+.card:hover + div{
+    @apply border-t-black;
+}

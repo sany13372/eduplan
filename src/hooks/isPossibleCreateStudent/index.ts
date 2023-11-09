@@ -1,0 +1,1 @@
+export {useIsPossibleCreateStudent} from './hooks'

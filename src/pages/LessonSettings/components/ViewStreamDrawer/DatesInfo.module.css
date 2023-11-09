@@ -1,0 +1,15 @@
+.datesInfo{
+    @apply flex flex-col gap-y-2
+}
+
+.datesInfo>.desc{
+    @apply flex justify-between items-center;
+}
+
+.datesInfo>.desc>*:nth-child(2){
+    @apply self-start;
+}
+
+.datesInfo>.content{
+    @apply flex gap-[30px];
+}

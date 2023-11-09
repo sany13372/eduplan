@@ -1,0 +1,10 @@
+.drawer{
+    @apply ease-in-out transition-all duration-300 transform;
+    @apply w-full max-w-[640px] min-w-0 h-full overflow-auto;
+    @apply fixed top-0 left-full  z-[100];
+    /*@apply px-9 py-6;*/
+}
+
+.drawerContent{
+    @apply flex flex-col gap-y-6;
+}

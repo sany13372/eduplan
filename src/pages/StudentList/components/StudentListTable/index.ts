@@ -1,0 +1,1 @@
+export { StudentListTable } from './StudentListTable';

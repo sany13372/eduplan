@@ -1,0 +1,1 @@
+export { StudentGroupList } from './StudentGroupList';

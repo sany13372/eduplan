@@ -1,0 +1,17 @@
+export { getEduGroupTypesQuery } from './getEduGroupTypesQuery';
+export { getCreateGroupInitialDataQuery } from './getCreateGroupInitialDataQuery';
+export { createGroupMutation } from './createGroupMutation';
+export { updateGroupMutation } from './updateGroupMutation';
+export { getUpdateGroupInitialDataQuery } from './getUpdateGroupInitialDataQuery';
+export { getViewGroupDataQuery } from './getViewGroupDataQuery';
+export { createStudentInfoMutation } from './createStudentInfoMutation';
+export { getCreateStudentInfoInitialDataQuery } from './getCreateStudentInfoInitialDataQuery';
+export { getSexTypesQuery } from './getSexTypesQuery';
+export { deleteStudentMutation } from './deleteStudentMutation';
+export { deleteGroupMutation } from './deleteGroupMutation';
+export { excludeStudentFromGroupQuery } from './excludeStudentFromGroupQuery';
+export { getStudentInfoQuery } from './getStudentInfoQuery';
+export { updateStudentInfoQuery } from './updateStudentInfoQuery';
+export { getCourseTypesQuery } from './getCourseTypesQuery';
+export { getEduGroupListQuery } from './getEduGroupListQuery';
+export { getFinancingSourceTypesQuery } from './getFinancingSourceTypesQuery';

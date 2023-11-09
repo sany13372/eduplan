@@ -1,0 +1,1 @@
+export { IotTemplateManagement } from './IotTemplateManagement';

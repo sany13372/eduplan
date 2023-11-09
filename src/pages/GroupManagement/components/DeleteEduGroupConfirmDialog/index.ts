@@ -1,0 +1,1 @@
+export { DeleteEduGroupConfirmDialog } from './DeleteEduGroupConfirmDialog';

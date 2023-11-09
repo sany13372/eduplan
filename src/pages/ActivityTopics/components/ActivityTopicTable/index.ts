@@ -1,0 +1,1 @@
+export { ActivityTopicTable } from './ActivityTopicTable';

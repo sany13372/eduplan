@@ -1,0 +1,1 @@
+export { EduPlanListTable } from './EduPlanListTable';

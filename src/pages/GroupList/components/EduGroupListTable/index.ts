@@ -1,0 +1,1 @@
+export { EduGroupListTable } from './EduGroupListTable';

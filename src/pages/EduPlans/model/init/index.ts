@@ -1,0 +1,14 @@
+import './eduForm';
+import './eduTechnology';
+import './competitionPeriod';
+import './eduPlanInfo';
+import './createEduPlanInfo';
+import './eduGrid';
+import './acadimicHourDuration';
+import './updateEduPlanInfo';
+import './isAvailable';
+import './admins';
+import './availableToLinkAdminsCount';
+import './availableToLinkAdmins';
+import './adminsDrawerVisibility';
+import './linkAdmins';

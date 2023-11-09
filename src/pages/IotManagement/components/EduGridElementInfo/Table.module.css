@@ -1,0 +1,15 @@
+.table{
+    @apply min-w-full border-collapse border rounded-md  border-[#E4E4E7];
+}
+
+.table tbody th, .table tbody td {
+    @apply  border px-4 py-[10px]  border-[#E4E4E7] truncate;
+}
+
+.table thead {
+    @apply   bg-white text-left top-0 left-0 ;
+}
+.table thead th {
+    @apply sticky z-10  px-4 py-[10px]  border-0;
+    outline:1px #E4E4E7 solid;
+}

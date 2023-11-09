@@ -1,0 +1,1 @@
+export { PersonEduPlanList } from './PersonEduPlanList';

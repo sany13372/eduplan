@@ -1,0 +1,34 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://localhost:3601",
+      "localStorage": [
+        {
+          "name": "role",
+          "value": "Конфигуратор ОП"
+        },
+        {
+          "name": "personRole",
+          "value": "pr_2IrLxBaGoRXSNfSw20RkrkjQqcr"
+        },
+        {
+          "name": "email",
+          "value": "configurator@sber.test"
+        },
+        {
+          "name": "name",
+          "value": "Конфигуратор Тест Тестович"
+        },
+        {
+          "name": "token",
+          "value": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIxX1RzLXNEU0JXUDdfZWI4Mlp1Mm9oRV96UmloU1AyYUctSjJYZEFaTlBFIn0.eyJleHAiOjE2Nzg0NTIxMjYsImlhdCI6MTY3ODM2NTcyNiwianRpIjoiNTI3MTkyN2YtNDc3NC00NjlmLTljMWEtZTVkNGUyNmE1NjQzIiwiaXNzIjoiaHR0cDovL3N1LWtleWNsb2FrOjgwODAvYXV0aC9yZWFsbXMvbWFzdGVyIiwiYXVkIjoiYWNjb3VudCIsInN1YiI6ImQxMjJjYzZjLTgwOTAtNGNkZC05ZGFiLWNmZDdkOTVmOTBkZiIsInR5cCI6IkJlYXJlciIsImF6cCI6Im9tLWtleWNsb2FrLWNsaWVudCIsInNlc3Npb25fc3RhdGUiOiJiNDA5NjhmNC0xZmVmLTQyZTEtODAwZi1mMzQwMDRlMzBlNGIiLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsiZGVmYXVsdC1yb2xlcy1tYXN0ZXIiLCJvZmZsaW5lX2FjY2VzcyIsInVtYV9hdXRob3JpemF0aW9uIl19LCJyZXNvdXJjZV9hY2Nlc3MiOnsiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwidmlldy1wcm9maWxlIl19fSwic2NvcGUiOiJlbWFpbCBwcm9maWxlIiwic2lkIjoiYjQwOTY4ZjQtMWZlZi00MmUxLTgwMGYtZjM0MDA0ZTMwZTRiIiwicGVyc29uX3JvbGUiOiJwcl8ySXJMeEJhR29SWFNOZlN3MjBSa3JralFxY3IiLCJyb2xlIjoi0JrQvtC90YTQuNCz0YPRgNCw0YLQvtGAINCe0J8iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsInBlcm1pc3Npb25zIjpbeyJzdWJqZWN0IjoiRWR1UGxhbiIsImFjdGlvbnMiOlsidmlld01lbnUiXX0seyJzdWJqZWN0IjoiRWR1UHJvZ3JhbSIsImFjdGlvbnMiOlsidmlld01lbnUiXX0seyJzdWJqZWN0IjoiRXZlbnQiLCJhY3Rpb25zIjpbInZpZXdNZW51Il19LHsic3ViamVjdCI6IlNwYWNlIiwiYWN0aW9ucyI6WyJ2aWV3TWVudSJdfV0sImh0dHBzOi8vaGFzdXJhLmlvL2p3dC9jbGFpbXMiOnsieC1oYXN1cmEtZGVmYXVsdC1yb2xlIjoicmVnaXN0ZXJlZCIsIngtaGFzdXJhLWFsbG93ZWQtcm9sZXMiOlsicmVnaXN0ZXJlZCJdfSwibmFtZSI6ItCX0LDRhdCw0YDRh9C10L3QutC-INCh0LXRgNCz0LXQuSDQodC10YDQs9C10LXQstC40YciLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ2YmVAeWFuZGV4LnJ1IiwidXNlciI6eyJyb2xlIjoi0JrQvtC90YTQuNCz0YPRgNCw0YLQvtGAINCe0J8iLCJwZXJtaXNzaW9ucyI6W3sic3ViamVjdCI6IkVkdVBsYW4iLCJhY3Rpb25zIjpbInZpZXdNZW51Il19LHsic3ViamVjdCI6IkVkdVByb2dyYW0iLCJhY3Rpb25zIjpbInZpZXdNZW51Il19LHsic3ViamVjdCI6IkV2ZW50IiwiYWN0aW9ucyI6WyJ2aWV3TWVudSJdfSx7InN1YmplY3QiOiJTcGFjZSIsImFjdGlvbnMiOlsidmlld01lbnUiXX1dLCJuYW1lIjoi0JfQsNGF0LDRgNGH0LXQvdC60L4g0KHQtdGA0LPQtdC5INCh0LXRgNCz0LXQtdCy0LjRhyIsInBlcnNvblJvbGUiOiJwcl8ySXJMeEJhR29SWFNOZlN3MjBSa3JralFxY3IifSwiZW1haWwiOiJ2YmVAeWFuZGV4LnJ1Iiwic3BhY2UiOiJzcGNfMklxeThOaEFxQVVpM1V5ajFTRnlpRXJGQUFXIn0.XpCZR897QZ9CkqzyjtxypZluWFjzoWp2F1FutJW97IElnUqwBx4JUoIOkybk45Mi4ykOiSPhvRUwe4UtaWDGHXMNsD8Aq9rbG7cszCu24MdYnFTDqWfb5slGfov0su9GPdczSQ8lR_oksIahMwNVYD0O2d3enZT1S-fDHRQGAi__n74sdV1d3VEnz0p9QBDbjcWC804muDcZYGO__g4oCx0iAUc2nZvPahZ4vyKaUSTYBm5uBjRC4KHIVige8wxaSDQEFeAvAe2_hOhSxmLn4k-_GbX6pbg4nUldbCo0OMeCV8Koevzf0KHSG0itZbYpsMmpRyZY-5KOw0eghHOIMw"
+        },
+        {
+          "name": "permissions",
+          "value": "[{\"subject\":\"EduPlan\",\"actions\":[\"viewMenu\"]},{\"subject\":\"EduProgram\",\"actions\":[\"viewMenu\"]},{\"subject\":\"Event\",\"actions\":[\"viewMenu\"]},{\"subject\":\"Space\",\"actions\":[\"viewMenu\"]}]"
+        }
+      ]
+    }
+  ]
+}

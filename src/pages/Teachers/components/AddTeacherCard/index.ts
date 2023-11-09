@@ -1,0 +1,1 @@
+export { AddTeacherCard } from './AddTeacherCard';

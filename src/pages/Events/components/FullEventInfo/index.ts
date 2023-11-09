@@ -1,0 +1,1 @@
+export { FullEventInfo } from './FullEventInfo';

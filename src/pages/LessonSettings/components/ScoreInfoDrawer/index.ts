@@ -1,0 +1,1 @@
+export { UpdateScoreInfoDrawer } from './UpdateScoreInfoDrawer';

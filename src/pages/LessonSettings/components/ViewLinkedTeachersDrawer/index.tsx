@@ -1,0 +1,1 @@
+export { ViewLinkedTeachersDrawer } from './ViewLinkedTeachersDrawer';

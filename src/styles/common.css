@@ -1,0 +1,39 @@
+
+@font-face {
+    font-family: "SB Sans Interface";
+    font-weight: normal;
+    src: url("./../assets/fonts/SBSansUI-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "SB Sans Interface";
+    font-weight: 600;
+    src: url("./../assets/fonts/SBSansUI-Semibold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "SB Sans Interface";
+    font-weight: 700;
+    src: url("./../assets/fonts/SBSansUI-Bold.woff2") format("woff2");
+}
+
+html,body,#root{
+    height:100%;
+    width: 100%;
+}
+
+.default{
+    height: 100%;
+    display: flex;
+    flex-direction: column
+}
+
+.sticky-top{
+    @apply sticky py-0.5 top-0 left-0
+}
+
+/* после переезда на  tailwind3 данный класс необходимо заменить на !w-max.*/
+.w-max-important{
+    width: max-content!important;
+    width: -moz-max-content!important;
+}

@@ -1,0 +1,7 @@
+.disabled {
+    @apply opacity-60  grayscale
+}
+
+.disabled, .disabled * {
+    @apply pointer-events-none
+}

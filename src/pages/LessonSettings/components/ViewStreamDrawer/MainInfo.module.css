@@ -1,0 +1,14 @@
+.mainInfo{
+    @apply flex flex-col gap-y-6;
+}
+.mainInfo>.lessonInfoBlock{
+    @apply flex gap-6 justify-between items-start;
+}
+
+
+.mainInfo>.streamInfoBlock{
+    @apply flex gap-4 justify-between items-start;
+}
+.mainInfo>.streamInfoBlock>.streamInfo{
+    @apply flex flex-col gap-3;
+}
